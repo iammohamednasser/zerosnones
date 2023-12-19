@@ -1,7 +1,7 @@
 let mr = 5;
 let size = 18;
 let cells;
-let phrase = "SOUKAINA";
+let phrase = "Hypatia";
 white = [100, 100, 101];
 
 function setup() {
